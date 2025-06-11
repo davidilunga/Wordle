@@ -1,6 +1,6 @@
-# Wordle GUI in Python
+# Wordyl GUI in Python
 
-This is a simple graphical version of the popular **Wordle** game built using **Python** and **Tkinter**. It allows you to guess randomly chosen words of a specified length, provides visual feedback for each letter, and limits the number of attempts—just like the original Wordle!
+This is a simple graphical version of the popular **Wordyl** game built using **Python** and **Tkinter**. It allows you to guess randomly chosen words of a specified length, provides visual feedback for each letter, and limits the number of attempts—just like the original Wordyl!
 
 ## 🎮 Features
 
@@ -25,7 +25,7 @@ This is a simple graphical version of the popular **Wordle** game built using **
 Ensure you have a `words.txt` file in the same directory, containing a list of valid English words (one per line). You can use [SCOWL](http://wordlist.aspell.net/) or any standard dictionary list.
 
 ## 📁 Project Structure
-├── wordle_gui.py # Main application
+├── wordyl_gui.py # Main application
 ├── words.txt # List of valid words
 └── README.md # You're here!
 
@@ -34,10 +34,10 @@ Ensure you have a `words.txt` file in the same directory, containing a list of v
 1. Clone or download this repository:
 
    bash
-   git clone https://github.com/your-username/wordle-gui-python.git
-   cd wordle-gui-python
+   git clone https://github.com/your-username/wordyl-gui-python.git
+   cd wordyl-gui-python
 2. Make sure words.txt exists and has a list of words (e.g., 4-7 letter words):
-3. Run the game: python wordle_gui.py
+3. Run the game: python wordyl_gui.py
 
 🧠 How to Play
 Enter a word length (e.g., 5) and click Start Game.
